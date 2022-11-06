@@ -2,6 +2,7 @@ public class Demo2{
 
 public static void main(String args[]){
 system.out.println("Good Morning")
+system.out.println("Good Night")
 }
 
 }
